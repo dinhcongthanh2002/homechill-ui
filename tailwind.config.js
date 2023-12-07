@@ -8,6 +8,9 @@ module.exports = {
       textShadow: {
         default: "0 2px 1px #333",
       },
+      boxShadow: {
+        "3xl": "rgba(0, 0, 0, 0.12) 0px 2px 12px;",
+      },
     },
     fontFamily: {
       roboto: ["Roboto", "sans-serif"],
